@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+outputs/
+weights/
+data/DB/
+provenance/checkpoints.json
+*.pt
+*.pth
+*.zip
+*.tar*
+.env

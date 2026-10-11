@@ -1,0 +1,17 @@
+SQONet code: academic research use
+
+Copyright (c) 2026 SQONet authors.
+Permission is granted to use, reproduce, and modify the SQONet additions for
+academic research, provided this notice and all applicable third-party notices
+are retained. The software is provided AS IS without warranty.
+
+This distribution includes P2PNet, whose license expressly restricts use in
+source and binary forms to academic research. The full original terms and the
+Apache-2.0 notices for its third-party components are retained in
+third_party/p2pnet/LICENSE. These terms continue to apply to derived code and
+checkpoints. This is a public research-code release, not an unrestricted
+commercial-use or OSI-approved license.
+
+DINOv2 remains under its own Apache-2.0 license in third_party/.
+Dataset files and pretrained model weights are not distributed in this release.
+No license to Google or other third-party imagery is granted by this release.

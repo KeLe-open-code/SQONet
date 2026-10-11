@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this code release and the associated SQONet manuscript. Publication metadata will be updated when available."
+title: "SQONet: Semantic Fusion and Query Scoring for Tree Counting and Localization in Urban and Suburban Remote Sensing Images"
+type: software
+version: 1.0.0
+date-released: 2026-10-11
+repository-code: "https://github.com/KeLe-open-code/SQONet"
+authors:
+  - family-names: Ke
+    given-names: Le
+  - family-names: Liu
+    given-names: Yang
+  - family-names: Chen
+    given-names: Xixin
+  - family-names: Zhou
+    given-names: Guoxiong
+  - family-names: Liu
+    given-names: Genhua
+  - family-names: Zhang
+    given-names: Huaiqing
+  - family-names: Zhang
+    given-names: Jiang
+  - family-names: Wang
+    given-names: Mingfang
+  - family-names: Li
+    given-names: Liujun

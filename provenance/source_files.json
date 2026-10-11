@@ -1,0 +1,176 @@
+[
+  {
+    "release_file": "paperlib/family.py",
+    "source_sha256": "aa730390b5951201de99269fef8e1ba2c13ef0146497cfe3a597263b0079741b",
+    "release_sha256": "defa9d9e706d68d50ed0db60b1f5e53d898291bfd0da5c015c658256288701e5",
+    "modified_for_portability": true
+  },
+  {
+    "release_file": "paperlib/stages.py",
+    "source_sha256": "d885ee72f6a92754660389ae01601a2480550cf6e989c031482c379050193306",
+    "release_sha256": "53b075c355dfd3a9e7c0016b66927eaa18c4837c12207800d0043f58bfd305e6",
+    "modified_for_portability": true
+  },
+  {
+    "release_file": "paperlib/trainloop.py",
+    "source_sha256": "275eb487ac3d8c2e5279b9b46b8de05b8449668e83b49c31c8ee35f81422a630",
+    "release_sha256": "34ee4f1362a5daa60a6301c0c152baff8776dd78d051fa646ab52d983b96c7d0",
+    "modified_for_portability": true
+  },
+  {
+    "release_file": "paperlib/eval.py",
+    "source_sha256": "29e7467624ac1031ce00a1803654a20ce89d9d20f833811e6bd6c8f8fd22fe13",
+    "release_sha256": "1c09941651af667e13392cfa2631fb2c5158e85278a400b77d69ae7173116243",
+    "modified_for_portability": true
+  },
+  {
+    "release_file": "paperlib/qdpr_train.py",
+    "source_sha256": "6aa7f3acb3d1427d21422286056aacfd88190d6dec19eb4f05074a7b37c70ccb",
+    "extracted_function": "run_qdpr_stage_flip",
+    "release_sha256": "0e26b2233d8c181fe17c922e64876e4836718a90b2ab0d0de4a55ad5f012651a"
+  },
+  {
+    "release_file": "third_party/p2pnet/models/backbone.py",
+    "source_sha256": "4af608e69efae6ce4cfff3e0419bae6838f9697e29774a8e098aac65f2f1a6fa",
+    "release_sha256": "0bf8af1685712e81ee76df27bb55410f0ac891ca2f6094418b2200a497df6cfd",
+    "modified_for_portability": true
+  },
+  {
+    "release_file": "third_party/p2pnet/models/matcher.py",
+    "source_sha256": "4426df389f763510d9879b858ddc15f8d6aae935d0812e5b957b281bcf549bc2",
+    "release_sha256": "4426df389f763510d9879b858ddc15f8d6aae935d0812e5b957b281bcf549bc2",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/p2pnet/models/p2pnet.py",
+    "source_sha256": "ea47e76cfc0a6380cee6d12478f43cfff5f3e99cd0c0501c2109f9d91b46034a",
+    "release_sha256": "ec62e8a8f9efed0d9a7c2c1c3958ab0e3a82b672c69b0d51d70193fadefc567e",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/p2pnet/models/vgg_.py",
+    "source_sha256": "2e4d08e1b04d549b414fd4fc3034399224f8140cf0d6f628a1a68c92507175e7",
+    "release_sha256": "2e4d08e1b04d549b414fd4fc3034399224f8140cf0d6f628a1a68c92507175e7",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/p2pnet/models/__init__.py",
+    "source_sha256": "dad01c6bd92f1251ed430ad2e7e305da4581da0c05fbae78a3e0bfa66642b4ab",
+    "release_sha256": "dad01c6bd92f1251ed430ad2e7e305da4581da0c05fbae78a3e0bfa66642b4ab",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/p2pnet/util/misc.py",
+    "source_sha256": "e2423b2cd92755e72ff24bb865363d0ecbe8892ee0dcc106a080e1e4f17ed93d",
+    "release_sha256": "e2423b2cd92755e72ff24bb865363d0ecbe8892ee0dcc106a080e1e4f17ed93d",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/p2pnet/util/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/p2pnet/LICENSE",
+    "source_sha256": "21eac805db37a50a2db0594e577d7c6b6a7fb53adbf00f050a35cae7dd495979",
+    "release_sha256": "21eac805db37a50a2db0594e577d7c6b6a7fb53adbf00f050a35cae7dd495979",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/__init__.py",
+    "source_sha256": "0d2b87b7e71c7f7279ccc4b4f8b541d26071425284a0ea01a5a435fac4511cfe",
+    "release_sha256": "0d2b87b7e71c7f7279ccc4b4f8b541d26071425284a0ea01a5a435fac4511cfe",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/hub/backbones.py",
+    "source_sha256": "871fca671b12a9ff02e810654baf509e97ccf461bf8196ce5ddeefff2fd87d3e",
+    "release_sha256": "871fca671b12a9ff02e810654baf509e97ccf461bf8196ce5ddeefff2fd87d3e",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/hub/utils.py",
+    "source_sha256": "579613e3d7b82c2a387eddc215ad9f076b8740f9618229628395fe5755dbd131",
+    "release_sha256": "579613e3d7b82c2a387eddc215ad9f076b8740f9618229628395fe5755dbd131",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/hub/__init__.py",
+    "source_sha256": "2932e94a2d67be87b717c49468214c1127be7864aedf37f5891d26be7bc1437f",
+    "release_sha256": "2932e94a2d67be87b717c49468214c1127be7864aedf37f5891d26be7bc1437f",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/layers/attention.py",
+    "source_sha256": "79c7be7a452b3aad96698ec38d5d5150b9f4d8ac084fa93324510dc9f624775d",
+    "release_sha256": "79c7be7a452b3aad96698ec38d5d5150b9f4d8ac084fa93324510dc9f624775d",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/layers/block.py",
+    "source_sha256": "60c0ac7dfa4474be313fabfa5a23d82faf6f0cecd4e720a88be35de9788cb636",
+    "release_sha256": "60c0ac7dfa4474be313fabfa5a23d82faf6f0cecd4e720a88be35de9788cb636",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/layers/dino_head.py",
+    "source_sha256": "9fdb1fa61c0609dc0876f711f9d0d828c33bf9fd972aab3d9c968d44e16b98d1",
+    "release_sha256": "9fdb1fa61c0609dc0876f711f9d0d828c33bf9fd972aab3d9c968d44e16b98d1",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/layers/drop_path.py",
+    "source_sha256": "b9f8236e86054b9d9a71275efcad2a9ecaa1f86b529d4b8d6109ddb5e806f67a",
+    "release_sha256": "b9f8236e86054b9d9a71275efcad2a9ecaa1f86b529d4b8d6109ddb5e806f67a",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/layers/layer_scale.py",
+    "source_sha256": "dadd5aafe178f1bf72a205a02a6645c7e635cacbad585d4a7369c200c6e89135",
+    "release_sha256": "dadd5aafe178f1bf72a205a02a6645c7e635cacbad585d4a7369c200c6e89135",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/layers/mlp.py",
+    "source_sha256": "255825c73b60a916dd00eb1e38aacbcdbf316e40d6a005efb46e245b7edb43aa",
+    "release_sha256": "255825c73b60a916dd00eb1e38aacbcdbf316e40d6a005efb46e245b7edb43aa",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/layers/patch_embed.py",
+    "source_sha256": "40da6add3d811198ea3e17cb99cdd4e5cda59e369efbbe3d18d89308618cf142",
+    "release_sha256": "40da6add3d811198ea3e17cb99cdd4e5cda59e369efbbe3d18d89308618cf142",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/layers/swiglu_ffn.py",
+    "source_sha256": "e46d2948fb97e497cf991ff82ce30cb59b59fdf2e12a19568417113716b4f119",
+    "release_sha256": "e46d2948fb97e497cf991ff82ce30cb59b59fdf2e12a19568417113716b4f119",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/layers/__init__.py",
+    "source_sha256": "1b55deed39d5ab0b589bef421bbfe06f24a10cd590a0f8403234c9ee4e34109d",
+    "release_sha256": "1b55deed39d5ab0b589bef421bbfe06f24a10cd590a0f8403234c9ee4e34109d",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/models/vision_transformer.py",
+    "source_sha256": "7799a260f2d7d0fe197331d08502fb8c542f9b7424723650f6a39b64fa2639ea",
+    "release_sha256": "7799a260f2d7d0fe197331d08502fb8c542f9b7424723650f6a39b64fa2639ea",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/dinov2/models/__init__.py",
+    "source_sha256": "b93329ce676f3eb0c9a7790d1b3b2b114a0855ea8dc76e32e262d1a7dc6c55ae",
+    "release_sha256": "b93329ce676f3eb0c9a7790d1b3b2b114a0855ea8dc76e32e262d1a7dc6c55ae",
+    "modified_for_portability": false
+  },
+  {
+    "release_file": "third_party/dinov2-7764ea0f912e53c92e82eb78a2a1631e92725fc8/LICENSE",
+    "source_sha256": "600cc67cc4cb2f5ea317dcfc687ad1c74dc4bec8782bbe9db0afd83513b935b7",
+    "release_sha256": "600cc67cc4cb2f5ea317dcfc687ad1c74dc4bec8782bbe9db0afd83513b935b7",
+    "modified_for_portability": false
+  }
+]
